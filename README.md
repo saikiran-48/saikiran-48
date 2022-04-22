@@ -4,7 +4,7 @@ Hi 👋 My name is Sai Kiran
 Frontend Engineer
 -----------------
 
-I'm a tech enthusiast who always love to create and learn new things eager to prove my value and talent.
+I'm a tech enthusiast who always love to create and learn new things also eager to prove my value and talent.
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [kirannetha97@gmail.com](mailto:kirannetha97@gmail.com)
